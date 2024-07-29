@@ -1,6 +1,8 @@
 __「 ✦ NADIA JEFTHA ✦ 」__
 
 
+
+
 Hi, my name is __Nadia Jeftha__ and I'm 20 years old. I am currently a student at CodeSpace and I'm learning to become a software developer.
 
 
