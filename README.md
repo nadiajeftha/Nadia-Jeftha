@@ -11,7 +11,7 @@ Hi, my name is __Nadia Jeftha__ and I'm 20 years old. I am currently a student a
 <img src="AOAI0865.JPG" alt="" width="300">
 
 
-## Skills and Technologies 💻
+## Skills 💻
 - Problem solving 🔎
 - HTML
 - CSS
@@ -31,9 +31,11 @@ Hi, my name is __Nadia Jeftha__ and I'm 20 years old. I am currently a student a
 
 
 ## Social Links
-- _LinkedIn_ - https://www.linkedin.com/in/nadia-jeftha-7232a1318/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bq3LbWDncSQO4dzj2lS13Mg%3D%3D
+- [LinkedIn](https://www.linkedin.com/in/nadia-jeftha-7232a1318/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bq3LbWDncSQO4dzj2lS13Mg%3D%3D)
+- [CodePen](https://codepen.io/Nadia-Jeftha)
 
 
 
 ## Contact Information 📞
 - *Email* - nadiajeftha2@gmail.com
+  
